@@ -1,0 +1,1 @@
+Series of code which were learned during the course of PHP
